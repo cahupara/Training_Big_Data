@@ -4,7 +4,8 @@ Entrenamiento Big Data
 
 Modelamiento de las ventas por sus clientes y articulos en sus diferentes paises
 
-"GRAFICA RESULTADO DEL TALLER AVANZADO 2"  -- JULIAN COLOCAR POR FAVOR GRAFICO QUE SE ADJUNTA
+"GRAFICA RESULTADO DEL TALLER AVANZADO 2"
+https://github.com/cahupara/Training_Big_Data/issues/1#issue-438581693
 
 ##1.Creación de premisas a nivel de datos y de metadatos
 
